@@ -12,7 +12,3 @@
 # Goals Unmet:
 
     - Did not finish DELETE routing
-
-Screenshot of application:
-
-Video of application in action (streamable):
